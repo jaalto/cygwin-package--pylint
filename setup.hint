@@ -1,4 +1,4 @@
-sdesc: "Python static code checker and UML diagram generator"
+sdesc: "Python static code checker"
 ldesc: "Analyzes source code for programming errors, helps enforcing a coding
 standard and sniffs for some code smells (as defined in Martin
 Fowler's Refactoring book). Pylint can be seen as another PyChecker
