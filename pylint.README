@@ -1,7 +1,7 @@
 pylint
 ------------------------------------------
 
-Python static code checker and UML diagram generator
+Python static code checker
 
 Analyzes source code for programming errors, helps enforcing a coding
 standard and sniffs for some code smells (as defined in Martin
