@@ -27,6 +27,7 @@ Runtime requirements:
   python-logilab-astng
 
 Build requirements:
+  quilt
   python
 
 Canonical homepage:
