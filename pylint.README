@@ -1,4 +1,4 @@
-<PKG>
+pylint
 ------------------------------------------
 
 Python static code checker and UML diagram generator
@@ -23,6 +23,8 @@ The package also contains following additional commands:
 
 Runtime requirements:
   python
+  python-logilab-common
+  python-logilab-astng
 
 Build requirements:
   python
@@ -59,23 +61,24 @@ Language:
 ------------------------------------------
 
 Build instructions:
-  unpack <PKG>-*-src.tar.bz2
+  unpack pylint-*-src.tar.bz2
     if you use setup to install this source package, it will be
     unpacked under /usr/src automatically
   cd /usr/src
-  ./<PKG>*.sh all
+  ./pylint*.sh all
 
 ------------------------------------------
 
 Files included in the binary distribution:
-  See content of *.tar.gz
+  See Cygwin package archive
 
 ------------------------------------------
 
 Port Notes:
+  Tk interface (command pylint-gui) is not included
 
------ version <VER>-<REL> -----
-- Initial release YYYY-MM-DD Firstname Lastname
+----- version 0.25.1-1 -----
+- Initial release 2012-09-23 Jari Aalto
 
-Cygwin port maintained by: Firstname Lastname <Your email here>
-Copyright (C) YYYY Firstname Lastname; Licensed under GPL v2 or later
+Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
+Copyright (C) 2012 Jari Aalto; Licensed under GPL v2 or later
