@@ -8,4 +8,4 @@ length of lines of code, checking if variable names are well-formed
 according to your coding standard, or checking if declared interfaces
 are truly implemented, and much more."
 category: Devel Python
-requires: python
+requires: python python-logilab-astng python-logilab-common
