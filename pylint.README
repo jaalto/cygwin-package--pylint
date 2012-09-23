@@ -39,9 +39,11 @@ Canonical download:
   ftp://ftp.logilab.org/pub/pylint
 
 Version control repository:
-  http://bitbucket.org/logilab/pylint
+  hg clone http://hg.logilab.org/pylint
+  https://bitbucket.org/logilab/pylint
 
 Mailing list:
+  http://lists.logilab.org/mailman/listinfo/python-projects
   http://www.logilab.org/mailinglist/850
 
 Forum / Wiki:
