@@ -1,5 +1,4 @@
 To: cygwin-announce@cygwin.com
-Subject: New package: pylint 0.25.1-1 -- Python static code checker
 --text follows this line--
 
 PACKAGE DESCRIPTION
@@ -25,7 +24,8 @@ See changes at http://hg.logilab.org/pylint
 INSTALL OR UPGRADE NOTES
 ========================
 
-Standard install.
+- Built for Python 2.7
+- Standard install
 
 CYGWIN INSTALLATION INFORMATION
 ===============================
