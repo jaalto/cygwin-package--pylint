@@ -13,9 +13,9 @@ Signed-off-by: Jari Aalto <jari.aalto@cante.net>
 
 --- a/man/pylint.1
 +++ b/man/pylint.1
-@@ -225,7 +225,12 @@ status 1 to 16 will be bit-ORed so you c
+@@ -237,7 +237,12 @@ status 1 to 16 will be bit-ORed so you c
  been issued by analysing pylint output status code
-         
+ 
  .SH SEE ALSO
 -/usr/share/doc/pythonX.Y-pylint/
 +epylint(1)
@@ -25,5 +25,5 @@ Signed-off-by: Jari Aalto <jari.aalto@cante.net>
 +
 +/usr/share/doc/pylint/
  
- .SH COPYRIGHT
- Logilab S.A.
+ .SH BUGS
+ Please report bugs on the project's mailing list:
