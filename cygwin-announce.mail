@@ -1,11 +1,11 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: pylint 1.1.0-1 -- Python static code checker
+Subject: Updated: pylint 1.3.1-1 -- Python static code checker
 --text follows this line--
 
 PACKAGE DESCRIPTION
 ===================
 
-Homepage: http://freecode.com/projects/pylint
+Homepage: http://www.logilab.org/project/pylint
 License : GPL-2+
 
 Analyzes source code for programming errors, helps enforcing a coding
