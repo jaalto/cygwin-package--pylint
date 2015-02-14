@@ -9,3 +9,5 @@
 #
 # Exclude file from patch. Use *LONG* option if there are file glob patterns
 --exclude=pylint.1
+--exclude=PKG-INFO
+--exclude=entry_points.txt
