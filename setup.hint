@@ -1,3 +1,4 @@
+# ARCH=noarch
 sdesc: "Python static code checker"
 ldesc: "Analyzes source code for programming errors, helps enforcing a coding
 standard and sniffs for some code smells (as defined in Martin
